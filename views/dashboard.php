@@ -11,6 +11,8 @@
     $product = new Product;
 
     $product_list = $product->displayProducts();
+
+// this is dashboard update
 ?>
 <!DOCTYPE html>
 <html lang="en">
