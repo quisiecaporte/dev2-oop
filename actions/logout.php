@@ -7,4 +7,6 @@
     header("location: ../views");
     exit;
 
+// this is logout main
+
 ?>
